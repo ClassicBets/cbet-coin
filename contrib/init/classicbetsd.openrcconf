@@ -1,0 +1,26 @@
+# /etc/conf.d/classicbetsd: config file for /etc/init.d/classicbetsd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/classicbets/classicbets.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/classicbetsd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/classicbetsd.pid"
+
+# Where to write classicbetsd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/classicbetsd"
+
+# User and group to own classicbetsd process
+#BITCOIND_USER="classicbets"
+#BITCOIND_GROUP="classicbets"
+
+# Path to classicbetsd executable
+#BITCOIND_BIN="/usr/bin/classicbetsd"
+
+# Nice value to run classicbetsd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

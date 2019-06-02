@@ -1,0 +1,26 @@
+[Unit]
+Description=ClassicBets's distributed currency daemon
+After=network.target
+
+[Service]
+User=classicbets
+Group=classicbets
+
+Type=forking
+PIDFile=/var/lib/classicbetsd/classicbetsd.pid
+
+ExecStart=/usr/bin/classicbetsd -daemon -pid=/var/lib/classicbetsd/classicbetsd.pid \
+          -conf=/etc/classicbets/classicbets.conf -datadir=/var/lib/classicbetsd
+
+ExecStop=-/usr/bin/classicbets-cli -conf=/etc/classicbets/classicbets.conf \
+         -datadir=/var/lib/classicbetsd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

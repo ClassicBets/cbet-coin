@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ClassicBets
+Comment=ClassicBets P2P Cryptocurrency
+Exec=classicbets-qt %u
+Terminal=false
+Type=Application
+Icon=classicbets128
+MimeType=x-scheme-handler/classicbets;
+Categories=Office;Finance;
+Name[cs_CZ]=classicbets-qt.desktop
