@@ -4,7 +4,7 @@ ClassicBets - P2P Cryptocurrency for classic betting games
 
 Required operating system for ClassicBets wallet and daemon is **Ubuntu 16.04 x64 or higher**
 
-**Cloning the repository and compiling (use any user with the sudo group):**
+**Cloning the repository and compiling :**
 ------------------------------------------------------------------------
 ```
 cd
