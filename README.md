@@ -10,11 +10,7 @@ Required operating system for ClassicBets wallet and daemon is **Ubuntu 16.04 x6
 cd
 git clone https://github.com/ClassicBets/cbet-coin.git
 cd cbet-coin
-chmod +x autogen.sh
-chmod +x configure
-chmod +x share/genbuild.sh
-chmod +x src/leveldb/bui
-ld_detect_platform
+chmod +x autogen.sh configure share/genbuild.sh src/leveldb/build_detect_platform
 ./autogen.sh
 ./configure
 make
