@@ -107,4 +107,29 @@ Block Explorer : http://explorer.classicbets.net
     <td>Block time :</td>
     <td>60 Seconds</td>
   </tr>
+  <tr>
+    <td>Maturity :</td>
+    <td>6 Blocks</td>
+  </tr>
+  <tr>
+    <td>MN Confirmations :</td>
+    <td>10 Blocks</td>
+  </tr>
+  <tr>
+    <td>Difficulty retargeting :</td>
+    <td>10 Blocks</td>
+  </tr>
+  <tr>
+    <td>Masternode collateral :</td>
+    <td>3,333 CBET</td>
+  </tr>
+  <tr>
+    <td>Total Coin Supply :</td>
+    <td>21,000,000 CBET</td>
+  </tr>
+  <tr>
+    <td>Premine :</td>
+    <td>177,777 CBET (0.84%)*</td>
+  </tr>
 </table>
+* Please read informations about premine usage on our [website](https://classicbets.net)
