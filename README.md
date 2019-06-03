@@ -80,64 +80,68 @@ Block Explorer : http://explorer.classicbets.net
 
 <table>
   <tr>
-    <td>Coin name :</td>
+    <td>Coin name</td>
     <td>ClassicBets</td>
   </tr>
   <tr>
-    <td>Abbreviation :</td>
+    <td>Abbreviation</td>
     <td>CBET</td>
   </tr>
   <tr>
-    <td>P2P Port :</td>
+    <td>P2P Port</td>
     <td>7777</td>
   </tr>
   <tr>
-    <td>RPC Port :</td>
+    <td>RPC Port</td>
     <td>7776</td>
   </tr>
   <tr>
-    <td>Coin type :</td>
+    <td>Coin type</td>
     <td>POS + Masternode</td>
   </tr>
   <tr>
-    <td>Algo :</td>
+    <td>Algo</td>
     <td>Quark</td>
   </tr>
   <tr>
-    <td>Block time :</td>
+    <td>Block time</td>
     <td>60 Seconds</td>
   </tr>
   <tr>
-    <td>Maturity :</td>
+    <td>Maturity</td>
     <td>6 Blocks</td>
   </tr>
   <tr>
-    <td>MN Confirmations :</td>
+    <td>MN Confirmations</td>
     <td>10 Blocks</td>
   </tr>
   <tr>
-    <td>Difficulty retargeting :</td>
+    <td>Difficulty retargeting</td>
     <td>10 Blocks</td>
   </tr>
   <tr>
-    <td>Masternode collateral :</td>
+    <td>Masternode collateral</td>
     <td>3,333 CBET</td>
   </tr>
   <tr>
-    <td>Total Coin Supply :</td>
+    <td>Total Coin Supply</td>
     <td>21,000,000 CBET</td>
   </tr>
   <tr>
-    <td>Premine :</td>
+    <td>Premine</td>
     <td>177,777 CBET (0.84%)*</td>
   </tr>
   <tr>
-    <td>POS Reward :</td>
+    <td>POS Reward</td>
     <td>25 %</td>
   </tr>
-  <tr>
-    <td>MN Reward :</td>
+<tr>
+    <td>MN Reward</td>
     <td>75 %</td>
+  </tr>
+<tr>
+    <td>Zero Protocol</td>
+    <td>Disabled for 2Y</td>
   </tr>
 </table>
 * Please read informations about premine usage on our website https://classicbets.net
@@ -157,10 +161,211 @@ Block Explorer : http://explorer.classicbets.net
 <thead>
 <tbody>
 <tr>
-  <th scope="row">1-10000</th>
+  <th scope="row">1-10,000</th>
   <th scope="row">10 CBET</th>
   <td>--PREMINE--</td>
   <td>--PREMINE--</td>
   </tr>
+<tr>
+  <th scope="row">10,001-22,160</th>
+  <th scope="row">0.10 CBET</th>
+  <td>0.025 CBET</td>
+  <td>0.075 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">22,161-32,240</th>
+  <th scope="row">1.50 CBET</th>
+  <td>0.375 CBET</td>
+  <td>1.125 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">32,241-42,320</th>
+  <th scope="row">1.75 CBET</th>
+  <td>0.437 CBET</td>
+  <td>1.312 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">42,321-52,400</th>
+  <th scope="row">2.00 CBET</th>
+  <td>0.500 CBET</td>
+  <td>1.500 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">52,401-62,480</th>
+  <th scope="row">2.25 CBET</th>
+  <td>0.562 CBET</td>
+  <td>1.687 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">62,481-72,560</th>
+  <th scope="row">2.50 CBET</th>
+  <td>0.625 CBET</td>
+  <td>1.875 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">72,561-82,640</th>
+  <th scope="row">2.75 CBET</th>
+  <td>0.687 CBET</td>
+  <td>2.063 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">82,641-92,720</th>
+  <th scope="row">3.00 CBET</th>
+  <td>0.750 CBET</td>
+  <td>2.250 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">92,721-102,800</th>
+  <th scope="row">3.25 CBET</th>
+  <td>0.812 CBET</td>
+  <td>2.438 CBET</td>
+  </tr>
+  <tr>
+  <th scope="row">102,801-112,880</th>
+  <th scope="row">3.50 CBET</th>
+  <td>0.875 CBET</td>
+  <td>2.625 CBET</td>
+  </tr>
+    <tr>
+  <th scope="row">112,881-122,960</th>
+  <th scope="row">3.75 CBET</th>
+  <td>0.937 CBET</td>
+  <td>2.813 CBET</td>
+  </tr>
+    <tr>
+  <th scope="row">122,961-143,120</th>
+  <th scope="row">4.00 CBET</th>
+  <td>1.000 CBET</td>
+  <td>3.000 CBET</td>
+  </tr>
+    <tr>
+  <th scope="row">143,121-163,280</th>
+  <th scope="row">4.50 CBET</th>
+  <td>1.125 CBET</td>
+  <td>3.375 CBET</td>
+  </tr>
+    <tr>
+  <th scope="row">163,281-183,440</th>
+  <th scope="row">5.00 CBET</th>
+  <td>1.250 CBET</td>
+  <td>3.750 CBET</td>
+  </tr>
+    <tr>
+  <th scope="row">183,441-203,600</th>
+  <th scope="row">6.00 CBET</th>
+  <td>1.500 CBET</td>
+  <td>4.500 CBET</td>
+  </tr>
+     <tr>
+  <th scope="row">203,601-213,680</th>
+  <th scope="row">5.75 CBET</th>
+  <td>1.437 CBET</td>
+  <td>4.312 CBET</td>
+  </tr>
+      <tr>
+  <th scope="row">213,681-223,760</th>
+  <th scope="row">5.50 CBET</th>
+  <td>1.375 CBET</td>
+  <td>4.125 CBET</td>
+  </tr>
+      <tr>
+  <th scope="row">223,761-233,840</th>
+  <th scope="row">5.25 CBET</th>
+  <td>1.312 CBET</td>
+  <td>3.937 CBET</td>
+  </tr>
+      <tr>
+  <th scope="row">233,841-243,920</th>
+  <th scope="row">5.00 CBET</th>
+  <td>1.250 CBET</td>
+  <td>3.750 CBET</td>
+  </tr>
+      <tr>
+  <th scope="row">243,921-254,000</th>
+  <th scope="row">4.75 CBET</th>
+  <td>1.187 CBET</td>
+  <td>3.562 CBET</td>
+  </tr>
+      <tr>
+  <th scope="row">254,001-264,080</th>
+  <th scope="row">4.50 CBET</th>
+  <td>1.125 CBET</td>
+  <td>3.375 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">264,081-274,160</th>
+  <th scope="row">4.25 CBET</th>
+  <td>1.062 CBET</td>
+  <td>3.187 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">274,161-284,240</th>
+  <th scope="row">4.00 CBET</th>
+  <td>1.000 CBET</td>
+  <td>3.000 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">284,241-294,320</th>
+  <th scope="row">3.75 CBET</th>
+  <td>0.937 CBET</td>
+  <td>2.812 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">294,321-304,400</th>
+  <th scope="row">3.50 CBET</th>
+  <td>0.875 CBET</td>
+  <td>2.625 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">304,401-314,480</th>
+  <th scope="row">3.25 CBET</th>
+  <td>0.812 CBET</td>
+  <td>2.437 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">314,481-324,560</th>
+  <th scope="row">3.00 CBET</th>
+  <td>0.750 CBET</td>
+  <td>2.250 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">324,561-334,640</th>
+  <th scope="row">2.75 CBET</th>
+  <td>0.687 CBET</td>
+  <td>2.062 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">334,641-344,720</th>
+  <th scope="row">2.50 CBET</th>
+  <td>0.625 CBET</td>
+  <td>1.875 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">344,721-354,800</th>
+  <th scope="row">2.25 CBET</th>
+  <td>0.562 CBET</td>
+  <td>1.687 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">354,801-364,880</th>
+  <th scope="row">2.00 CBET</th>
+  <td>0.500 CBET</td>
+  <td>1.500 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">364,881-374,960</th>
+  <th scope="row">1.75 CBET</th>
+  <td>0.437 CBET</td>
+  <td>1.312 CBET</td>
+  </tr>
+        <tr>
+  <th scope="row">374,961-1,051,200</th>
+  <th scope="row">1.50 CBET</th>
+  <td>0.375 CBET</td>
+  <td>1.125 CBET</td>
+  </tr>
+  <tr>
+    <th scope="row">Then reward is halving every two years</th>
+  <tr>
 </tbody>
 </table>
