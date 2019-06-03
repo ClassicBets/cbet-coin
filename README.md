@@ -80,7 +80,31 @@ Block Explorer : http://explorer.classicbets.net
 
 <table>
   <tr>
-    <td>**Coin name :**</td>
+    <td>Coin name :</td>
     <td>ClassicBets</td>
+  </tr>
+  <tr>
+    <td>Abbreviation :</td>
+    <td>CBET</td>
+  </tr>
+  <tr>
+    <td>P2P Port :</td>
+    <td>7777</td>
+  </tr>
+  <tr>
+    <td>RPC Port :</td>
+    <td>7776</td>
+  </tr>
+  <tr>
+    <td>Coin type :</td>
+    <td>POS + Masternode</td>
+  </tr>
+  <tr>
+    <td>Algo :</td>
+    <td>Quark</td>
+  </tr>
+  <tr>
+    <td>Block time :</td>
+    <td>60 Seconds</td>
   </tr>
 </table>
