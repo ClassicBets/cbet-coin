@@ -390,15 +390,10 @@ Block Explorer : http://explorer.classicbets.net
 67000,77000,87000,97000<br/>
 107000,117000,127000,137000<br/>
 147000,157000,167000,177000<br/>
-
-187000,197000,207000,217000,
-
-227000,237000,247000,257000,
-
-267000,277000,287000,297000,
-
-307000,317000,327000,337000,
-
+187000,197000,207000,217000<br/>
+227000,237000,247000,257000<br/>
+267000,277000,287000,297000<br/>
+307000,317000,327000,337000<br/>
 347000,357000,367000,377000      
     </td>
     <td>77.00 CBET</td>
@@ -407,3 +402,83 @@ Block Explorer : http://explorer.classicbets.net
   </tr>
 </tbody>
 </table>
+
+
+**Ultra Blocks**
+-----------------
+
+<table>
+<thead>
+  <tr>
+    <th scope="col">Block No</th>
+    <th scope="col">Reward / Block</th>
+    <th scope="col">POS Reward</th>
+    <th scope="col">MN Reward</th>
+  </tr>
+<thead>
+<tbody>
+  <tr>
+    <td>
+25,000      
+    </td>
+    <td>177.00 CBET</td>
+    <td>44.25 CBET</td>
+    <td>132.75 CBET</td>
+  </tr>
+  <tr>
+    <td>
+50,000      
+    </td>
+    <td>277.00 CBET</td>
+    <td>69.25 CBET</td>
+    <td>207.75 CBET</td>
+  </tr>
+  <tr>
+    <td>
+75,000      
+    </td>
+    <td>377.00 CBET</td>
+    <td>94.25 CBET</td>
+    <td>282.75 CBET</td>
+  </tr>
+  <tr>
+    <td>
+100,000      
+    </td>
+    <td>477.00 CBET</td>
+    <td>119.25 CBET</td>
+    <td>357.75 CBET</td>
+  </tr>
+  <tr>
+    <td>
+125,000      
+    </td>
+    <td>577.00 CBET</td>
+    <td>144.25 CBET</td>
+    <td>432.75 CBET</td>
+  </tr>
+  <tr>
+    <td>
+150,000      
+    </td>
+    <td>677.00 CBET</td>
+    <td>169.25 CBET</td>
+    <td>507.75 CBET</td>
+  </tr>
+  <tr>
+    <td>
+175000,200000,225000<br/>
+250000,275000,300000<br/>
+325000,350000,375000<br/>
+400000,425000,450000<br/>
+475000,500000,525000<br/>
+550000,575000,600000<br/>
+    </td>
+    <td>777.00 CBET</td>
+    <td>194.25 CBET</td>
+    <td>582.75 CBET</td>
+  </tr>
+</tbody>
+</table>
+
+
