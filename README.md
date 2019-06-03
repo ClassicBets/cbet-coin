@@ -132,4 +132,4 @@ Block Explorer : http://explorer.classicbets.net
     <td>177,777 CBET (0.84%)*</td>
   </tr>
 </table>
-* Please read informations about premine usage on our [website](https://classicbets.net)
+* Please read informations about premine usage on our website [classicbets.net](https://classicbets.net)
