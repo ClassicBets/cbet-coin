@@ -1,39 +1,24 @@
 
 # ClassicBets
-CHVCash - ChainVertizer Exchange Network Crypto Currency
+ClassicBets - P2P Cryptocurrency for classic betting games
 
-Required operating system : **Ubuntu 16.04 & 18.04 x64**
-
-**Important note:**
----------------
-Before you receive your first CHVCash coins in your wallet , **disable** Zerocoin protocol 
-(zCHVCash autominting) in your wallet.
-How to :
-1. In QT Wallet :
-- Wallet menu -> Settings -> Options
-- Uncheck "Enable zCHVC automint"
-2. In command line wallet/daemon , VPS :
-- stop wallet (daemon)
-- open and edit chvcash.conf file in CHVCash main directory
-- insert "enablezeromint=0" to configuration file
-- save configuration file
-- restart your wallet (daemon)
+Required operating system for ClassicBets wallet and daemon is **Ubuntu 16.04 x64 or higher**
 
 **Cloning the repository and compiling (use any user with the sudo group):**
 ------------------------------------------------------------------------
 ```
 cd
-git clone https://github.com/ChainVertizer/CHVCash.git
-cd CHVCash
+git clone https://github.com/ClassicBets/cbet-coin.git
+cd cbet-coin
 chmod +x autogen.sh
 chmod +x share/genbuild.sh
 chmod +x src/leveldb/build_detect_platform
 ./autogen.sh
 ./configure
 make
-make install #optional
+make install #optional if you want to install wallet
 ```
-**Installation of libraries (using root user):**
+**Installation of dependencies :**
 ---------------------------
 ```
 sudo add-apt-repository ppa:bitcoin/bitcoin
@@ -47,7 +32,7 @@ sudo apt-get install libminiupnpc-dev
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
 sudo apt-get install libqrencode-dev
 ```
-**Installing Berkeley DB (using root user):**
+**Installing Berkeley DB :**
 ---------------------------
 ```
 wget https://download.oracle.com/berkeley-db/db-4.8.30.zip
@@ -61,32 +46,32 @@ sudo make install
 Running the daemon:
 -------------------
 ```
-chvcashd -daemon
+classicbetsd -daemon -listen
 ```
 Stopping the daemon:
 -----------
 ```
-chvcash-cli stop
+classicbets-cli stop
 ```
 Daemon status:
 ---------------
 ```
-chvcash-cli getinfo
-chvcash-cli mnsync status
-chnvash-cli masternode status
+classicbets-cli getinfo
+classicbets-cli mnsync status
+classicbets-cli masternode status 
 ```
 
 **All binaries for different operating systems, you can download in the releases repository:**
 ---------------------------
-https://github.com/ChainVertizer/CHVCash/releases
+https://github.com/ClassicBets/cbet-coin/releases
 
 **Connecting ports:**
 ----------------------------
-RPC Port : 8183
-P2P Port : 8184
+RPC Port : 7776
+P2P Port : 7777
 
 **More informations:**
 --------------------
-Please , find more informations on our website https://chvcash.com or on CHVCash & ChainVertizer support Discord server https://discord.gg/75CRAFC . 
-Chain monitor is located here : https://chvcashexplorer.com
+Please , find more informations on our website https://classicbets.net.
+Block Explorer : http://explorer.classicbets.net
 
