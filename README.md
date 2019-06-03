@@ -142,7 +142,9 @@ Block Explorer : http://explorer.classicbets.net
 </table>
 * Please read informations about premine usage on our website https://classicbets.net
 
+
 **Reward Distribution**
+----------------------------
 
 <table>
 <thead>
