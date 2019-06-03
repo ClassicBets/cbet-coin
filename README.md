@@ -75,3 +75,12 @@ P2P Port : 7777
 Please , find more informations on our website https://classicbets.net.
 Block Explorer : http://explorer.classicbets.net
 
+**CBET Specifications**
+---------------------------
+
+<table>
+  <tr>
+    <td>**Coin name :**</td>
+    <td>ClassicBets</td>
+  </tr>
+</table>
