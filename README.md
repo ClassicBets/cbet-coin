@@ -4,7 +4,7 @@ ClassicBets - P2P Cryptocurrency for classic betting games
 
 Required operating system for ClassicBets wallet and daemon is **Ubuntu 16.04 x64 or higher**
 
-**Cloning the repository and compiling :**
+**Cloning the repository and compiling**
 ------------------------------------------------------------------------
 ```
 cd
@@ -18,7 +18,7 @@ chmod +x src/leveldb/build_detect_platform
 make
 make install #optional if you want to install wallet
 ```
-**Installation of dependencies :**
+**Installation of dependencies**
 ---------------------------
 ```
 sudo add-apt-repository ppa:bitcoin/bitcoin
@@ -32,7 +32,7 @@ sudo apt-get install libminiupnpc-dev
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
 sudo apt-get install libqrencode-dev
 ```
-**Installing Berkeley DB :**
+**Installing Berkeley DB**
 ---------------------------
 ```
 wget https://download.oracle.com/berkeley-db/db-4.8.30.zip
@@ -43,17 +43,17 @@ cd build_unix/
 make
 sudo make install
 ```
-Running the daemon:
+Running the daemon
 -------------------
 ```
 classicbetsd -daemon -listen
 ```
-Stopping the daemon:
+Stopping the daemon
 -----------
 ```
 classicbets-cli stop
 ```
-Daemon status:
+Daemon status
 ---------------
 ```
 classicbets-cli getinfo
@@ -61,11 +61,11 @@ classicbets-cli mnsync status
 classicbets-cli masternode status 
 ```
 
-**All binaries for different operating systems, you can download in the releases repository:**
+**All binaries for different operating systems, you can download in the releases repository**
 ---------------------------
 https://github.com/ClassicBets/cbet-coin/releases
 
-**Connecting ports:**
+**Connecting ports**
 ----------------------------
 RPC Port : 7776
 P2P Port : 7777
