@@ -3,7 +3,7 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CLassicBets_CSPORKDB_H
+#ifndef ClassicBets_CSPORKDB_H
 #define ClassicBets_CSPORKDB_H
 
 #include <boost/filesystem/path.hpp>
