@@ -131,6 +131,14 @@ Block Explorer : http://explorer.classicbets.net
     <td>Premine :</td>
     <td>177,777 CBET (0.84%)*</td>
   </tr>
+  <tr>
+    <td>POS Reward :</td>
+    <td>25 %</td>
+  </tr>
+  <tr>
+    <td>MN Reward :</td>
+    <td>75 %</td>
+  </tr>
 </table>
 * Please read informations about premine usage on our website https://classicbets.net
 
