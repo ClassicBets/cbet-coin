@@ -70,7 +70,7 @@ https://github.com/ClassicBets/cbet-coin/releases
 RPC Port : 7776
 P2P Port : 7777
 
-**More informations:**
+**More informations**
 --------------------
 Please , find more informations on our website https://classicbets.net.
 Block Explorer : http://explorer.classicbets.net
@@ -132,4 +132,25 @@ Block Explorer : http://explorer.classicbets.net
     <td>177,777 CBET (0.84%)*</td>
   </tr>
 </table>
-* Please read informations about premine usage on our website [classicbets.net](https://classicbets.net)
+* Please read informations about premine usage on our website https://classicbets.net
+
+**Reward Distribution**
+
+<table>
+<thead>
+  <tr>
+    <th scope="col">Block No</th>
+    <th scope="col">Reward / Block</th>
+    <th scope="col">POS Reward</th>
+    <th scope="col">MN Reward</th>
+  </tr>
+<thead>
+<tbody>
+<tr>
+  <th scope="row">1-10000</th>
+  <th scope="row">10 CBET</th>
+  <td>--PREMINE--</td>
+  <td>--PREMINE--</td>
+  </tr>
+</tbody>
+</table>
