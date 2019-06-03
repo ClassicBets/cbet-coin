@@ -365,7 +365,40 @@ Block Explorer : http://explorer.classicbets.net
   <td>1.125 CBET</td>
   </tr>
   <tr>
-    <th scope="row">Then reward is halving every two years</th>
+    <th scope="row" colspan=4>Then reward is halving every two years</th>
   <tr>
+</tbody>
+</table>
+
+
+**Super Blocks**
+-----------------
+
+<table>
+<thead>
+  <tr>
+    <th scope="col">Block No</th>
+    <th scope="col">Reward / Block</th>
+    <th scope="col">POS Reward</th>
+    <th scope="col">MN Reward</th>
+  </tr>
+<thead>
+<tbody>
+  <tr>
+    <td>
+27000,37000,47000,57000,
+67000,77000,87000,97000,
+107000,117000,127000,137000,
+147000,157000,167000,177000,
+187000,197000,207000,217000,
+227000,237000,247000,257000,
+267000,277000,287000,297000,
+307000,317000,327000,337000,
+347000,357000,367000,377000      
+    </td>
+    <td>77.00 CBET</td>
+    <td>19.25 CBET</td>
+    <td>57.75 CBET</td>
+  </tr>
 </tbody>
 </table>
