@@ -1,7 +1,7 @@
 Unauthenticated REST Interface
 ==============================
 
-The REST API can be enabled with the `-rest` option.
+The REST API can be enabled with the `-rest` option. 
 
 Supported API
 -------------
