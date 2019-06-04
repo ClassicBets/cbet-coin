@@ -22,7 +22,8 @@ Unpack the files into a directory, and then run classicbets-qt.exe.
 
 ### OSX
 
-Drag ClassicBets-Qt to your applications folder, and then run ClassicBets-Qt.
+Will be available on July'19 !
+Unpack the files into a directory, and then run classicbets-qt.
 
 ### Need Help?
 
@@ -34,27 +35,10 @@ The following are developer notes on how to build ClassicBets on your native pla
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
-- [Gitian Building Guide](gitian-building.md)
 
 Development
 ---------------------
 The ClassicBets repo's [root README](https://github.com/ClassicBets/cbet-coin/blob/master/README.md) contains relevant information on the development process and automated testing.
-
-- [Developer Notes](developer-notes.md)
-- [Multiwallet Qt Development](multiwallet-qt.md)
-- [Release Notes](release-notes.md)
-- [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/bitcoin/doxygen/) ***TODO***
-- [Translation Process](translation_process.md)
-- [Unit Tests](unit-tests.md)
-- [Unauthenticated REST Interface](REST-interface.md)
-- [Dnsseed Policy](dnsseed-policy.md)
-
-### Miscellaneous
-- [Assets Attribution](assets-attribution.md)
-- [Files](files.md)
-- [Tor Support](tor.md)
-- [Init Scripts (systemd/upstart/openrc)](init.md)
 
 License
 ---------------------
