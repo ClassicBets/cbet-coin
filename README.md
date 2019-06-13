@@ -159,16 +159,22 @@ Block Explorer : http://explorer.classicbets.net
 <thead>
 <tbody>
 <tr>
-  <th scope="row">1-10,000</th>
-  <th scope="row">10 CBET</th>
+  <th scope="row">1-720</th>
+  <th scope="row">1 CBET</th>
   <td>--PREMINE--</td>
   <td>--PREMINE--</td>
   </tr>
 <tr>
-  <th scope="row">10,001-22,160</th>
+  <th scope="row">720-12,160</th>
   <th scope="row">0.10 CBET</th>
   <td>0.025 CBET</td>
   <td>0.075 CBET</td>
+  </tr>
+<tr>
+  <th scope="row">12,161-22,160</th>
+  <th scope="row">01.00 CBET</th>
+  <td>0.250 CBET</td>
+  <td>0.750 CBET</td>
   </tr>
   <tr>
   <th scope="row">22,161-32,240</th>
