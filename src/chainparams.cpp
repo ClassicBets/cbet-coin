@@ -337,7 +337,7 @@ public:
 
         hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 51476;
-        assert(hashGenesisBlock == uint256("0x0000009b38980a28962a8e8a3b190895eee04c29a8dae29ccd3c16af20429e15"));
+        assert(hashGenesisBlock == uint256("0x000008110b1a7fe09132f2996f7c34667aa3e4a65ed048bda3d3123c08fb8ab4"));
 
         vFixedSeeds.clear(); //! Testnet mode doesn't have any fixed seeds.
         vSeeds.clear();      //! Testnet mode doesn't have any DNS seeds.
