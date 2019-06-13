@@ -172,7 +172,7 @@ Block Explorer : http://explorer.classicbets.net
   </tr>
 <tr>
   <th scope="row">12,161-22,160</th>
-  <th scope="row">01.00 CBET</th>
+  <th scope="row">1.00 CBET</th>
   <td>0.250 CBET</td>
   <td>0.750 CBET</td>
   </tr>
