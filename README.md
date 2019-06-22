@@ -1,5 +1,5 @@
 
-# ClassicBets
+# ClassicBets ( 2.0 )
 ClassicBets - P2P Cryptocurrency for classic betting games
 
 Required operating system for ClassicBets wallet and daemon is **Ubuntu 16.04 x64 or higher**
