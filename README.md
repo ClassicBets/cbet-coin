@@ -130,6 +130,10 @@ Block Explorer : http://explorer.classicbets.net
     <td>200,000 CBET (0.95%)*</td>
   </tr>
   <tr>
+    <td>Block Reward</td>
+    <td>3.00 CBET</td>
+  </tr>
+<tr>
     <td>POS Reward</td>
     <td>0.75 CBET 25 %</td>
   </tr>
