@@ -111,7 +111,7 @@ Block Explorer : http://explorer.classicbets.net
   </tr>
   <tr>
     <td>MN Confirmations</td>
-    <td>10 Blocks</td>
+    <td>15 Blocks</td>
   </tr>
   <tr>
     <td>Difficulty retargeting</td>
