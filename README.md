@@ -131,15 +131,15 @@ Block Explorer : http://explorer.classicbets.net
   </tr>
   <tr>
     <td>Block Reward</td>
-    <td>3.00 CBET</td>
+    <td>1.00 CBET</td>
   </tr>
 <tr>
     <td>POS Reward</td>
-    <td>0.75 CBET 25 %</td>
+    <td>0.25 CBET 25 %</td>
   </tr>
 <tr>
     <td>MN Reward</td>
-    <td>2.25 CBET 75 %</td>
+    <td>0.75 CBET 75 %</td>
   </tr>
 <tr>
     <td>Zero Protocol</td>
